@@ -1,9 +1,9 @@
 # Projeto de Rastreamento de Produtos do Mar
 
-## Integrante
-- **Nome:** Felipe Schineider - RM 552643, Thiago Araujo - RM 553477, Vinicius Centurion - RM 554063
--           
-- 
+## Integrantes
+-  Felipe Schineider - RM 552643
+-  Thiago Araujo - RM 553477         
+-  Vinicius Centurion - RM 554063
 
 ## Descrição do Projeto
 Este projeto tem como objetivo criar um sistema de rastreabilidade de produtos do mar utilizando a linguagem Python. O sistema permite registrar, visualizar, salvar e carregar dados sobre produtos do mar, desde a captura até a venda. Além disso, utiliza a API OpenCage para obter as coordenadas geográficas dos locais de captura, processamento, transporte e venda.
