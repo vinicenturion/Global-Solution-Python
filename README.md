@@ -38,7 +38,7 @@ Este projeto tem como objetivo criar um sistema de rastreabilidade de produtos d
 ## Dependências
 
 - `requests`: Para realizar requisições HTTP à API do OpenCage.
-- - `datetime`: Para realizar a coleta automática das coordenadas.
+- `datetime`: Para realizar a coleta automática da data e local.
 
 ## Estrutura do Projeto
 
