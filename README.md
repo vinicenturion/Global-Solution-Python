@@ -11,7 +11,7 @@ Este projeto tem como objetivo criar um sistema de rastreabilidade de produtos d
 ## Funcionalidades
 1. **Cadastrar Produto:**
    - Registro dos detalhes do produto, incluindo data e local de captura, processamento, transporte e venda.
-   - Obtenção de coordenadas geográficas dos locais informados, ou através de coleta automática.
+   - Obtenção de coordenadas geográficas e data dos locais informados, ou através de coleta automática.
 
 2. **Visualizar Produtos:**
    - Listagem de todos os produtos cadastrados com detalhes completos.
