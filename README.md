@@ -11,7 +11,7 @@ Este projeto tem como objetivo criar um sistema de rastreabilidade de produtos d
 ## Funcionalidades
 1. **Cadastrar Produto:**
    - Registro dos detalhes do produto, incluindo data e local de captura, processamento, transporte e venda.
-   - Obtenção de coordenadas geográficas dos locais informados.
+   - Obtenção de coordenadas geográficas dos locais informados, ou através de coleta automática.
 
 2. **Visualizar Produtos:**
    - Listagem de todos os produtos cadastrados com detalhes completos.
@@ -38,6 +38,7 @@ Este projeto tem como objetivo criar um sistema de rastreabilidade de produtos d
 ## Dependências
 
 - `requests`: Para realizar requisições HTTP à API do OpenCage.
+- - `datetime`: Para realizar a coleta automática das coordenadas.
 
 ## Estrutura do Projeto
 
